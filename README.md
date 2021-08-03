@@ -1,7 +1,7 @@
 
 
 
-- 🔭 I’m currently working on [Netflix App](https://github.com/Tiago-devop/netflix)
+- 🔭 I’m currently working on [React with movie DB](https://github.com/Tiago-devop/react-rmdb)
 - 🌱 I’m currently learning React and Bootstrap
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiago-ramos-7780831a3/)
 
