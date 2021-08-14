@@ -1,8 +1,8 @@
 
 
 
-- 🔭 I’m currently working on [React with movie DB](https://github.com/Tiago-devop/react-rmdb)
-- 🌱 I’m currently learning React and Bootstrap
+- 🔭 I’m currently working on [React Agency App](https://github.com/Tiago-devop/react-agency-app)
+- 🌱 I’m currently learning React and Styled-Components
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiago-ramos-7780831a3/)
 
 ## Languages and tools
