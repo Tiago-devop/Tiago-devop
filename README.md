@@ -1,7 +1,7 @@
 
 
 
-- 🔭 I’m currently working on [React Agency App](https://github.com/Tiago-devop/react-agency-app)
+- 🔭 I’m currently working on [netflix app with react](https://github.com/Tiago-devop/react-nextflixv2)
 - 🌱 I’m currently learning React and Styled-Components
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiago-ramos-7780831a3/)
 
