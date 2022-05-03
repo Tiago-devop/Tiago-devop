@@ -23,6 +23,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ## Statistics
 <div>
- <img align="center" height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-devop&langs_count=5&theme=tokyonight" >
- <img align="center" height="250rem" src="https://github-readme-stats.vercel.app/api/?username=Tiago-devop&count_private=true&theme=tokyonight&showicons=true" >
+ <img align="center" height="230rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-devop&langs_count=5&theme=tokyonight" >
+ <img align="center" height="230rem"  src="https://github-readme-stats.vercel.app/api/?username=Tiago-devop&count_private=true&theme=tokyonight&showicons=true" >
 <div>
