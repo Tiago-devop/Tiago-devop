@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning Next js
+- 🌱 I’m currently SoulCode Bootcamp.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiago-ramos-7780831a3/)
 
 ## Languages and tools
