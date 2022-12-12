@@ -1,10 +1,3 @@
-
-
-
-- 🔭 I’m currently working on
-- 🌱 I’m currently SoulCode Bootcamp.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiago-ramos-7780831a3/)
-
 ## Languages and tools
 
 ![Html5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
